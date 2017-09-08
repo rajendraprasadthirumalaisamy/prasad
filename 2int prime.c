@@ -26,5 +26,4 @@ int main()
         ++low;
     }
 
-    return 0;
 }
